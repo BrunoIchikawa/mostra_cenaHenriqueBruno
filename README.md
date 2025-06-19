@@ -12,9 +12,9 @@ Henrique Kenji
 
 ## Relatório
 
-Bruno ishikawa: codificação da cena e documentação.
+Bruno ishikawa: Codificação da cena e documentação.
 
-Henrique Kenji: documentação e planejamneto da cena.
+Henrique Kenji: Documentação e planejamento da cena.
 
 ## Link do jogo
 
