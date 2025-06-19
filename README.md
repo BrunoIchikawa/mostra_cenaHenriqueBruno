@@ -7,18 +7,22 @@ O nosso jogo que se chama "Entre sombras e estrelas" é um jogo de puzzle em 2D 
 ## Integrantes
 
 Bruno ishikawa
+
 Henrique Kenji
 
 ## Relatório
 
 Bruno ishikawa: codificação da cena e documentação.
+
 Henrique Kenji: documentação e planejamneto da cena.
 
-##
+## Link do jogo
+
+Link:
 
 ## Sumário
 
-*
-*
-*
-*
+* [Home](https://github.com/BrunoIchikawa/mostra_cenaHenriqueBruno/wiki)
+* [Cena](https://github.com/BrunoIchikawa/mostra_cenaHenriqueBruno/wiki/Cena)
+* [Assets](https://github.com/BrunoIchikawa/mostra_cenaHenriqueBruno/wiki/Assets)
+* [Códigos](https://github.com/BrunoIchikawa/mostra_cenaHenriqueBruno/wiki/Códigos-da-cena)
